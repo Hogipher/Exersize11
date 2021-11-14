@@ -1,0 +1,17 @@
+[info] Loading settings from plugins.sbt ...
+[info] Loading project definition from C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw12-UnBothered1\project
+[info] Loading settings from build.sbt ...
+UnBothered1
+hw12:
+- epsilon
+- any
+- char *** FAILED ***
+  Expected None, but got Some('a') (hw12.scala:103)
+- alt *** FAILED ***
+  Expected None, but got Some('a') (hw12.scala:111)
+- concat *** FAILED ***
+  Expected None, but got Some((a,b)) (hw12.scala:127)
+- map *** FAILED ***
+  Expected None, but got Some('A') (hw12.scala:143)
+- Polish *** FAILED ***
+  Expected Some(8), but got Some(10) (hw12.scala:162)
